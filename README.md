@@ -1,7 +1,8 @@
 # 🎹 Electronic Musical Instrument
 
 **First project after learning C language coding**  
-사운드 파일이 커서 업로드하지 못했습니다.
+사운드 파일이 커서 업로드하지 못했습니다.  
+언어를 처음 배우고 시작한 프로젝트
 
 ---
 
